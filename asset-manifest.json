@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Reactjs-practice/static/css/main.cc8f5c2c.chunk.css",
+    "main.js": "/Reactjs-practice/static/js/main.51348d5d.chunk.js",
+    "main.js.map": "/Reactjs-practice/static/js/main.51348d5d.chunk.js.map",
+    "runtime-main.js": "/Reactjs-practice/static/js/runtime-main.e7becdc0.js",
+    "runtime-main.js.map": "/Reactjs-practice/static/js/runtime-main.e7becdc0.js.map",
+    "static/css/2.c490997a.chunk.css": "/Reactjs-practice/static/css/2.c490997a.chunk.css",
+    "static/js/2.536655ec.chunk.js": "/Reactjs-practice/static/js/2.536655ec.chunk.js",
+    "static/js/2.536655ec.chunk.js.map": "/Reactjs-practice/static/js/2.536655ec.chunk.js.map",
+    "static/js/3.36e45980.chunk.js": "/Reactjs-practice/static/js/3.36e45980.chunk.js",
+    "static/js/3.36e45980.chunk.js.map": "/Reactjs-practice/static/js/3.36e45980.chunk.js.map",
+    "index.html": "/Reactjs-practice/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/Reactjs-practice/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.cc8f5c2c.chunk.css.map": "/Reactjs-practice/static/css/main.cc8f5c2c.chunk.css.map",
+    "static/js/2.536655ec.chunk.js.LICENSE.txt": "/Reactjs-practice/static/js/2.536655ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7becdc0.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.536655ec.chunk.js",
+    "static/css/main.cc8f5c2c.chunk.css",
+    "static/js/main.51348d5d.chunk.js"
+  ]
+}
